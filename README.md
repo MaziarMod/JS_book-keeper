@@ -5,4 +5,4 @@ Project:
 - HTML & CSS
 
 URL:
-[live](https://maziarmod.github.io/JS_expanding-cards/)
+[live](https://maziarmod.github.io/JS_book-keeper/)
